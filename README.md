@@ -1,4 +1,4 @@
-# Título do projeto
+# Projeto teste de Python
 
 Exemplo de como utilizar o git hub para o projeto python do curso de IA
 
